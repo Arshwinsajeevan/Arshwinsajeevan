@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Software developer skilled in Python, React, and full-stack development building scalable production-ready applications. Strong in REST API development, database optimization, debugging, and practical AI/ML implementation<br>through real-world projects and collaborative Agile workflows.
+Full-Stack Developer with a strong foundation in Python and React, experienced in designing and building scalable, production-grade web applications from system architecture to deployment. Proficient in Django, FastAPI, and RESTful API development, with solid expertise in database modeling, query optimization, authentication workflows, and performance tuning. Skilled in debugging complex integration issues and implementing AI/ML-driven features within real-world systems. Committed to writing clean, maintainable code and building reliable end-to-end solutions in collaborative Agile environments, with the ability to quickly adapt to new tools and technologies.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@ A Software developer skilled in Python, React, and full-stack development buildi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshwinsajeevan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arshwinsajeevan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Arshwinsajeevan&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
